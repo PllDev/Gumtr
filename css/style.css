@@ -765,7 +765,7 @@
 		#header .container
 		{
 			position: relative;
-			padding: 3em 0em;
+			padding: 2.2em 0em;
 		}
 
 /*********************************************************************************/
@@ -776,7 +776,7 @@
 	{
 		position: absolute;
 		left: 0em;
-		top: 1.7em;
+		top: .5em;
 	}
 	
 		#logo h1
